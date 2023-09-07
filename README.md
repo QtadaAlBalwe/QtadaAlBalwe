@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-**QtadaAlBalwe/QtadaAlBalwe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+- 👀 I’m interested in In the website programming sector, and currently I am learning programming intensively 
+    and learning about all the resources that help me build good knowledge in this sector.
+<img src="https://www.canva.com/design/DAFty2Uw6lQ/VeovWd_fQQ1nEWrUPnYC_w/edit?utm_content=DAFty2Uw6lQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
