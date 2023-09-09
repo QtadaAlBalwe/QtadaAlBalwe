@@ -4,7 +4,7 @@
  I’m interested in In the website programming sector, and currently I am learning programming intensively 
     and learning about all the resources that help me build good knowledge in this sector.
     
-<img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626" width="600" height="400" align="right">
+<img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626" width="550" height="400" align="right">
 
 
 
@@ -15,7 +15,7 @@
 
 - Front End:-
 - 
-  <span><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="20" height="30" /> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="20" height="30"/></span>
+  <span><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="40" height="50" /> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" height="50"/><img src="[https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif)" width="30" height="50"/></span>
 
   
 - Back End:-
