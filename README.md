@@ -9,8 +9,12 @@
 
 
 - 🔭I am currently working on several projects with the aim of developing my skills as a website developer, and I have completed courses related to the front-end of the website and the back-end of the website, including: -
+- 
 - Front End:-
+- 
   <span><img width:20px hight:10px src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"></span>
+
+  
 - Back End:-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
