@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 👀 I’m interested in In the website programming sector, and currently I am learning programming intensively 
+ I’m interested in In the website programming sector, and currently I am learning programming intensively 
     and learning about all the resources that help me build good knowledge in this sector.
-<img src="https://www.canva.com/design/DAFty2Uw6lQ/VeovWd_fQQ1nEWrUPnYC_w/edit?utm_content=DAFty2Uw6lQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+<img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
