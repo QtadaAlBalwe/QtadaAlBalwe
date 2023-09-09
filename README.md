@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Qutada👋
 
 
  I’m interested in In the website programming sector, and currently I am learning programming intensively and learning about all the resources that help me build good knowledge in this sector. 
@@ -29,8 +29,12 @@
 
 - 🌱 I am currently learning more languages related to full-fledged programming, and frankly, I am inclined towards front-end programming, as I am learning within an educational system under the supervision of Meraki Academy in a camp that lasts for 700 hour and extends for five months intensively and with follow-up duration of up to 8 months.
  <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="400" height="350" align="right"/>
+
+
  
-- 👯 I’m looking to collaborate on ...
+- 👯 I am eager to graduate from this camp and work officially in this field besides my work as a civil engineer within the Housing Corporation and go far in this field. I imagine myself after the next five years inside large companies related to programming, so that my curiosity turned into a passion in the field of programming websites.
+
+-<span> <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="30" height="50"/>One of my work within this camp is to create a remote shopping website that serves customers professionally</span>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
