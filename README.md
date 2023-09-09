@@ -4,7 +4,7 @@
  I’m interested in In the website programming sector, and currently I am learning programming intensively 
     and learning about all the resources that help me build good knowledge in this sector.
     
-<img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626" width="400" height="300" align="right">
+<img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626" width="600" height="400" align="right">
 
 
 
