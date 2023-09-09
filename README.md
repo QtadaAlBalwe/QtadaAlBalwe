@@ -50,7 +50,7 @@
 
   
   <a href="www.linkedin.com/in/qutadaalbalwie"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"
-  width="30" height="50"/></a>
+  width="50" height="60"/></a><a><img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="50" height="60"/>+962786535228</a>
   
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
