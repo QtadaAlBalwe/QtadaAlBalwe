@@ -5,7 +5,7 @@
     and learning about all the resources that help me build good knowledge in this sector.
     
 <img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626" width="600" height="400" align="right">
-
+<img src="[https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626](https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif)" width="600" height="400" align="left">
 
 
 
