@@ -34,7 +34,7 @@
  
 - 👯 I am eager to graduate from this camp and work officially in this field besides my work as a civil engineer within the Housing Corporation and go far in this field. I imagine myself after the next five years inside large companies related to programming, so that my curiosity turned into a passion in the field of programming websites.
 
-- <span> <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="60" height="80"/>One of my work within this camp is to create a remote shopping website that serves customers professionally</span>
+- <span>One of my work within this camp is to create a remote shopping website that serves customers professionally <img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="60" height="80"/></span>
 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
