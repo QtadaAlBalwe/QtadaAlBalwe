@@ -6,9 +6,11 @@
     
 <img src="https://github.com/QtadaAlBalwe/QtadaAlBalwe/assets/132203498/7a986d69-0e21-4144-809c-a8c94faa5626">
 
+
+
 - 🔭I am currently working on several projects with the aim of developing my skills as a website developer, and I have completed courses related to the front-end of the website and the back-end of the website, including: -
 - Front End:-
-  <span><img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"></span>
+  <span><img width:20px src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif"></span>
 - Back End:-
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
