@@ -38,10 +38,7 @@
 
 - <span>One of my work within this camp is to create a remote shopping website that serves customers professionally
 
-  
-<img src="https://user-images.githubusercontent.com/74038190/213910842-5a320d6b-e48f-4d41-a901-0e6a357e8dae.gif" width="200" height="220"/></span>
-
-
+ 
 
 - 🤔 I am currently looking for a group of projects that support this stage so that I choose knowledge accurately and support my passion. I try to design integrated projects and then focus on the front-end side.
 
